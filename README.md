@@ -1,4 +1,11 @@
-# Akbank-Derin-renme-Bootcamp
+# Akbank-Derin-Orenme-Bootcamp
+
+Ömer Can ESKİCİOĞLU
+
+Proje dosyasında istenilen tüm şartlar sağlanmıştır.
+Kaggle ve Google Colab yetersiz kaldığından dolayı eğitimde birkaç defa yarıda kesilmiştir.
+Tensorboard ve Gradcam ayrı olarak çalıştırıldı. Sonuçlar kaggle sayfasında başarıyla kaydedilmişti. 
+Eğitim hala devam etmektedir. Ancak haftalık kotamızda dolmak üzere. Bilginize Sunarız
 
 # 📂 Proje Akışı
 ## Veri Keşfi
