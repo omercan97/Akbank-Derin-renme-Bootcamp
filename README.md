@@ -1,4 +1,4 @@
-# Akbank-Derin-Orenme-Bootcamp
+# Akbank-Derin-Ogrenme-Bootcamp
 
 Ömer Can ESKİCİOĞLU
 
