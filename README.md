@@ -35,7 +35,8 @@ Batch Normalization
 Dropout
 L2 düzenlemeli Dense(256, ReLU)
 Sigmoid çıkış (binary classification)
-## Optimizasyon
+
+## Optimizasyon
 Kayıp fonksiyonu: Binary Crossentropy
 Optimizasyon: Adam / AdamW / SGD seçenekleri
 Metrikler: Accuracy, AUC, Precision, Recall
